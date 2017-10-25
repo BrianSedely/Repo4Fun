@@ -1,0 +1,10 @@
+body {
+    font-size: 20px;
+    color: navy;
+    font-family: 'Karla', sans-serif;
+}
+img {
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%)
+}
